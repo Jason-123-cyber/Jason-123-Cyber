@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Jason-123-cyber/Jason-123-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jason-123-cyber/Jason-123-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on Myour GitHub profile.
 
 Here are some ideas to get you started:
 
