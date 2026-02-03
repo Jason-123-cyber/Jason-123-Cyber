@@ -4,6 +4,15 @@
 
 Here are some ideas to get you started:
 
+Hashicorp-vault-provider
+Introduction
+This plugin provides key usage by using the hashicorp vault signing engine.
+
+Usage
+Start the Plugin under the desired adress and connect any service to it.
+
+Environment Variables:
+
 Environment Variables: 
 
 |BTC|Example Value|
